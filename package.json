@@ -49,6 +49,7 @@
         "@solana/wallet-adapter-wallets": "^0.16.8",
         "@solana/web3.js": "^1.77.3",
         "@supabase/supabase-js": "^2.26.0",
+        "@types/bs58": "^4.0.4",
         "axios": "^1.4.0",
         "framer-motion": "^10.12.18",
         "next": "^12.3.4",
